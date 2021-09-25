@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi
+
+I am Tharindu. I am new to coding.
+I like music and swimming.
